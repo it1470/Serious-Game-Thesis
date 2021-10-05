@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menus.unity
     guid: fb18b6ab4982469478d3d285836a75c9
   - enabled: 1
-    path: Assets/Scenes/qwerty.unity
-    guid: 39c023185de8ad34cb5e82b0f813ffea
+    path: Assets/Scenes/Scene 1.unity
+    guid: a72c694958b9ff44a9c82dba8c33fdc3
   m_configObjects: {}
